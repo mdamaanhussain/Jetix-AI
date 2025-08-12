@@ -12,7 +12,7 @@ const{onSent,recentPrompt,showResult,loading,resultData,setInput,input}= useCont
     <div className='main'>
         <div className='nav'>
             <div className="title">
- <p>Gemini</p>
+ <p>Jetix AI</p>
  <p className="by">by Amaan</p>
             </div>
           <img src={assets.user_icon} alt=""/>
@@ -94,3 +94,4 @@ const{onSent,recentPrompt,showResult,loading,resultData,setInput,input}= useCont
 
 
 export default Main
+
